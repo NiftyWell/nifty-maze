@@ -1,0 +1,15 @@
+[package]
+name = "ping-proxy"
+version = "0.0.0"
+authors = [ "Well",]
+edition = "2018"
+publish = false
+
+[lib]
+path = "src/main.rs"
+
+[dependencies.multiversx-sc]
+version = "0.41.1"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.41.1"
