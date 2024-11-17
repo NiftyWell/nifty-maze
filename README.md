@@ -1,9 +1,9 @@
 # Nifty Maze Smart Contract & Ping Proxy
 
 🦖 Welcome to the Nifty Maze Smart Contract and Ping Proxy! 🦖
+![output](https://github.com/user-attachments/assets/f5f1482d-3d99-4169-9234-802136fd1758)
 
 ## Nifty Maze Smart Contract
-
 🌐 The Nifty Maze Smart Contract is a part of the Nifty Rex project and is designed for the MultiversX blockchain (formerly known as Elrond). It allows players to participate in an exciting maze game and win rewards by navigating through a maze matrix filled with various blocks, including prizes, traps, doors, and keys.
 
 🎮 Players can register moves and progress through the maze, but they must be careful as walls, traps, and locked doors can obstruct their path. To claim the title of Maze MVP, players must reach the finish line, and the MVP (Player spending the most ESDTs) will receive a share of the collected tokens as a reward.
